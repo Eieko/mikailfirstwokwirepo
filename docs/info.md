@@ -9,11 +9,17 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+and gate inputs: in0 and in1
+and gate outputs: out0
+
+nand gate inputs:in2 and in3
+nand nate outputs: out1,out2,out3
 
 ## How to test
 
-Explain how to use your project
+Clock: 10Khz
+in0 and in1---->and gate----->out0
+in2 and in3---->nand gate---->out1;out2;out2
 
 ## External hardware
 
